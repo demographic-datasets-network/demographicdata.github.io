@@ -8,4 +8,5 @@ We define “small area” as datasets where most of the time series are for are
 Our goal is to make this as accessible as possible, therefore the data and metadata are provided in csv format.
 
 We invite demographers to contribute to this repo and to make suggestions on how to improve the way that the data is organised.  
+
 If you would like to contribute or make suggestions please contact irina at: irina.grossman@unimelb.edu.au
